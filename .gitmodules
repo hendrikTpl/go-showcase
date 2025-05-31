@@ -1,3 +1,6 @@
 [submodule "go-redis-service"]
 	path = go-redis-service
 	url = git@github.com:hendrikTpl/go-redis-service.git
+[submodule "go-psql-jwt-service"]
+	path = go-psql-jwt-service
+	url = git@github.com:hendrikTpl/go-psql-jwt-service.git
