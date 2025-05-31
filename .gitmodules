@@ -1,0 +1,3 @@
+[submodule "go-redis-service"]
+	path = go-redis-service
+	url = git@github.com:hendrikTpl/go-redis-service.git
