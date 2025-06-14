@@ -4,3 +4,6 @@
 [submodule "go-psql-jwt-service"]
 	path = go-psql-jwt-service
 	url = git@github.com:hendrikTpl/go-psql-jwt-service.git
+[submodule "dxid-tool"]
+	path = dxid-tool
+	url = git@github.com:hendrikTpl/dxid-tool.git
