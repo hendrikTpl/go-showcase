@@ -7,3 +7,6 @@
 [submodule "dxid-tool"]
 	path = dxid-tool
 	url = git@github.com:hendrikTpl/dxid-tool.git
+[submodule "go-gin-jwt-mongo-service"]
+	path = go-gin-jwt-mongo-service
+	url = git@github.com:hendrikTpl/go-gin-jwt-mongo-service.git
